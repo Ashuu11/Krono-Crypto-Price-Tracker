@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Live Project Link: https://krono-crypto-price-tracker.vercel.app/
+
 ![Screenshot (48)](https://user-images.githubusercontent.com/84927939/162604451-bd8357a4-20af-44af-a689-9e93aa568627.png)
 
 ## Getting Started
